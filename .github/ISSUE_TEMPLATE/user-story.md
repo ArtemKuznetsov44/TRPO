@@ -2,7 +2,7 @@
 name: User Story
 about: 'User Story | Шаблон '
 title: User Story
-labels: ''
+labels: 'User Story'
 assignees: ArtemKuznetsov44
 
 ---
